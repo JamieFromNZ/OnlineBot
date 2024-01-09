@@ -1,0 +1,24 @@
+{
+  "name": "userbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamieFromNZ/UserBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamieFromNZ/UserBot/issues"
+  },
+  "homepage": "https://github.com/JamieFromNZ/UserBot#readme",
+  "dependencies": {
+    "captchaguru": "^1.0.0",
+    "crypto": "^1.0.1",
+    "discord-user-bots": "^1.6.0"
+  }
+}
